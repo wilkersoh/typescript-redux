@@ -1,0 +1,11 @@
+{
+	"apps": [
+		{
+			"name": "typescript-redux",
+			"script": "npm",
+			"args": "start",
+			"instances": "max",
+			"exec_mode": "cluster"
+		}
+	]
+}
